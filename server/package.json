@@ -1,5 +1,5 @@
 {
-	"name" : "HarlowApplication",
+	"name" : "TestMySkill",
 	"version" : "4.2.3",
 	"dependencies" : {
 		"body-parser" : "1.15.2 ",
